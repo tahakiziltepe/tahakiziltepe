@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Actually I'm a data analyst. I use SQL and Python. 
+🔭 I'm a data analyst actually. I use SQL and Python on a daily basis. Beside data libraries, I've created a web site project with Django, written scripts by using RESTful APIs and DB connection libraries.
 <br>
 🌱 Software development is my enthusiasm. I would prefer to enhance my back end skills initially. I'm currently learning Java with courses. Also I regularly solve problems with Java on LeetCode in order to improve my Data Structures and Algorithms knowledge.
 <br>
