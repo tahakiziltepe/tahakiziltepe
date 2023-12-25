@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 Actually I'm a data analyst. I use SQL and Python. 
+🌱 Software development is my enthusiasm. I would prefer to enhance my back end skills initially. I'm currently learning Java with courses. Also I regularly solve problems with Java on LeetCode in order to improve my Data Structures and Algorithms knowledge.
+
+### Tech Stack 
+JavaScript Python HTML5 CSS3 Bootstrap Django jQuery NodeJS React React Router TailwindCSS Adobe Photoshop Notion LINUX Postman AWS Azure MongoDB MySQL Redis SQLite Postgres Adobe Illustrator Figma NumPy Pandas Matplotlib Docker GIT
+
 <!--
 **tahakiziltepe/tahakiziltepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
