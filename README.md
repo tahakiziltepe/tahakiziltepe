@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-🔭 I'm a data analyst actually. I use SQL and Python on a daily basis. Beside data libraries, I've created a web site project with Django, written scripts by using RESTful APIs and DB connection libraries.
+🔭 I am working as a data analyst. I have hands on experience in SQL and Python. In addition to data libraries, I've created a web site project with Django, written scripts by using RESTful APIs and used DB connection libraries.
 <br>
-🌱 Software development is my enthusiasm. I would prefer to enhance my back end skills initially. I'm currently learning Java with courses. Also I regularly solve problems with Java on LeetCode in order to improve my Data Structures and Algorithms knowledge.
+🌱 Software development is my passion. I prefer to enhance my back-end skills initially. I'm currently learning Java by sticking to courses and practicing. Also, I regularly solve problems with Java on LeetCode in order to improve my Data Structures and Algorithms knowledge.
 <br>
 ### My Current Backlog:
+- DS & Algorithm Practices with Java, Python and C# (Happening...)
+- Java Fundamentals (Happening...)
+- C# Fundamentals
 - Java, Spring Boot
+- C#, .NET
 - Python, Django
 - .
 - .
