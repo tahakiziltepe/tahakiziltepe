@@ -6,9 +6,9 @@
 <br>
 ### My Current Backlog:
 - DS & Algorithm Practices with Java, Python and C# (Happening...)
-- Java Fundamentals (Happening...)
-- C# Fundamentals
+- Java (Happening...)
 - Java, Spring Boot
+- C#
 - C#, .NET
 - Python, Django
 - .
