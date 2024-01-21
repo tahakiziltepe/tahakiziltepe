@@ -28,7 +28,7 @@ with
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>, 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 
-
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahakiziltepe&show_icons=true&locale=en&layout=compact" alt="tahakiziltepe" /></p>
 
 <!--
