@@ -19,7 +19,9 @@ with
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <hr>
 
-My very first web project which is made with Django, Bootstrap, SQLite3 and Google Gemini: <a href="https://github.com/tahakiziltepe/Django-Google-Gemini-Chatbot/"> Django-Google-Gemini-Chatbot repository </a>
+<p>My very first web project which is made with Django, Bootstrap, SQLite3 and Google Gemini: <a href="https://github.com/tahakiziltepe/Django-Google-Gemini-Chatbot/"> Django-Google-Gemini-Chatbot repository </a></p>
+<p>I am developing a web project by using Django and Power BI Rest API in order to be able to use Power BI Rest API from web page: <a href="https://github.com/tahakiziltepe/django-powerbi-webapp"> Django-PowerBI-WebApp repository </a></p>
+
 <hr>
 
 ### I'm learning:
