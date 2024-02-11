@@ -19,6 +19,9 @@ with
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <hr>
 
+My very first web project which is made with Django, Bootstrap, SQLite3 and Google Gemini: <a href="https://github.com/tahakiziltepe/Django-Google-Gemini-Chatbot/"> Django-Google-Gemini-Chatbot repository </a>
+<hr>
+
 ### I'm learning:
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a> 
 with
