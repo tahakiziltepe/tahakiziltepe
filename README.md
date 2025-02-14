@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I am working as a data analyst. I have hands on experience in SQL and Python. I am currently involved in a range of projects that encompass both machine learning and LLM (LangChain, OpenAI, and Gemini). In addition to data libraries, I've created a web site project with Django, written scripts by using RESTful APIs and used DB connection libraries.
+🔭 I am working as a Data Engineer. I have hands on experience in SQL and Python. I am currently involved in a range of projects that encompass both machine learning and LLM (LangChain, OpenAI, and Gemini). In addition to data libraries, I've created a web site project with Django, written scripts by using RESTful APIs and used DB connection libraries.
 <br>
 🌱 Software development is my passion. I am focused on enhancing my back-end skills first. I'm currently learning Java by following courses and practicing. Also, I regularly solve problems with Java on LeetCode in order to improve my Data Structures and Algorithms knowledge.
  
