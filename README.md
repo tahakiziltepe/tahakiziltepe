@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-🔭 I am working as a Data Engineer. I have hands on experience in SQL and Python. I am currently involved in a range of projects that encompass both machine learning and LLM (LangChain, OpenAI, and Gemini). In addition to data libraries, I've created a web site project with Django, written scripts by using RESTful APIs and used DB connection libraries.
+🔭 I'm working as a Data Engineer with hands-on experience in SQL and Python. I'd love to contribute to open-source projects.
 <br>
-🌱 Software development is my passion. I am focused on enhancing my back-end skills first. I'm currently learning C# by following courses and practicing. Also, I regularly solve problems with Java on LeetCode in order to improve my Data Structures and Algorithms knowledge.
-
+🌱 Learning C# and .NET.
+<hr>
 <p>My very first web project which is made with Django, Bootstrap, SQLite3 and Google Gemini: <a href="https://github.com/tahakiziltepe/Django-Google-Gemini-Chatbot/"> Django-Google-Gemini-Chatbot repository </a></p>
 <p>I am developing a web project by using Django and Power BI Rest API in order to be able to use Power BI Rest API from web page: <a href="https://github.com/tahakiziltepe/django-powerbi-webapp"> Django-PowerBI-WebApp repository </a></p>
-<hr>
 
+<!--
 ### I've used/been using:
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
@@ -21,18 +21,16 @@ with
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>, 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>, 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-
 <hr>
-
 ### I'm learning:
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a> 
 with
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>, 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>, 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahakiziltepe&show_icons=true&locale=en&layout=compact" alt="tahakiziltepe" /></p>
+-->
 
 <!--
 **tahakiziltepe/tahakiziltepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
