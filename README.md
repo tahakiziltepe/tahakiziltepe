@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm working as a Data Engineer with hands-on experience in SQL and Python. I'd love to contribute to open-source projects.
+🔭 I'm working as a Data Engineer with hands-on experience in SQL and Python. <!-- I'd love to contribute to open-source projects.  -->
 <br>
 🌱 Learning C# and .NET.
 <hr>
